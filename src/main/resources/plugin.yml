@@ -1,0 +1,5 @@
+name: data
+version: '${project.version}'
+main: com.halestudios.data.Data
+api-version: '1.19'
+authors: [datta]
